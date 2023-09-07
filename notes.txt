@@ -15,7 +15,6 @@ Steps:
 - The New York Public Library (NYPL) has over 50 million items in its collections, making it one of the largest public libraries in the world.
 (See IMAGE in folder: /images)
 
-
 3.Step
 - 100.41.25.252 & 100.41.25.250
 - Cambridge Massachusetts
@@ -37,7 +36,6 @@ Steps:
 - (40.713192, -74.006065)
 - The New York Public Library (NYPL) has over 50 million items in its collections, making it one of the largest public libraries in the world.
 (See IMAGE in folder: /images)
-
 
 6.Step
 - 199.27.132.36 & 172.70.108.2 & 172.70.228.2
